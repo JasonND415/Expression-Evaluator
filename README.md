@@ -1,2 +1,2 @@
 # Expression-Evaluator
-Solve an expression (Data Structures Spring 2020)
+This program evaluates an expression (Data Structures Spring 2020)
